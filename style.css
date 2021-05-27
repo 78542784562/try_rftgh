@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+}
+footer {
+    position:fixed;
+    background-color:#ECDB9E;
+    padding: 10px;
+    font-size: 20px;
+    bottom:0px;
+    right:0px
+}
+a:hover{
+    color:#006400;
+    background-color:#00FFFF;
+}
+header a{
+    text-decoration:none;
+    border: 2px solid #4B0082;
+    border-radius: 7px;
+    padding: 1px;
+}
